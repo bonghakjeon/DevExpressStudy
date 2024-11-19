@@ -52,7 +52,7 @@ namespace FluentDesignDashboard
             this.fluentDesignFormContainer1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.fluentDesignFormContainer1.Location = new System.Drawing.Point(260, 40);
             this.fluentDesignFormContainer1.Name = "fluentDesignFormContainer1";
-            this.fluentDesignFormContainer1.Size = new System.Drawing.Size(417, 426);
+            this.fluentDesignFormContainer1.Size = new System.Drawing.Size(403, 419);
             this.fluentDesignFormContainer1.TabIndex = 0;
             // 
             // flyoutPanel1
@@ -80,7 +80,7 @@ namespace FluentDesignDashboard
             this.accordionControl1.Location = new System.Drawing.Point(0, 40);
             this.accordionControl1.Name = "accordionControl1";
             this.accordionControl1.ScrollBarMode = DevExpress.XtraBars.Navigation.ScrollBarMode.Touch;
-            this.accordionControl1.Size = new System.Drawing.Size(260, 426);
+            this.accordionControl1.Size = new System.Drawing.Size(260, 419);
             this.accordionControl1.TabIndex = 1;
             this.accordionControl1.ViewType = DevExpress.XtraBars.Navigation.AccordionControlViewType.HamburgerMenu;
             // 
@@ -95,7 +95,7 @@ namespace FluentDesignDashboard
             this.fluentDesignFormControl1.Location = new System.Drawing.Point(0, 0);
             this.fluentDesignFormControl1.Manager = this.fluentFormDefaultManager1;
             this.fluentDesignFormControl1.Name = "fluentDesignFormControl1";
-            this.fluentDesignFormControl1.Size = new System.Drawing.Size(677, 40);
+            this.fluentDesignFormControl1.Size = new System.Drawing.Size(663, 40);
             this.fluentDesignFormControl1.TabIndex = 2;
             this.fluentDesignFormControl1.TabStop = false;
             // 
@@ -108,7 +108,7 @@ namespace FluentDesignDashboard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 14F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(677, 466);
+            this.ClientSize = new System.Drawing.Size(663, 459);
             this.ControlContainer = this.fluentDesignFormContainer1;
             this.Controls.Add(this.fluentDesignFormContainer1);
             this.Controls.Add(this.accordionControl1);
